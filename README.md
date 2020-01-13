@@ -25,10 +25,3 @@
 pod "target" install
 ```
 
-## Usage
-
-
-
-## Author
-
-## License
