@@ -7,6 +7,8 @@
 
 ## Features
 
+![Simulator Screen Shot - iPhone Xʀ - 2020-01-14 at 03 13 47](https://user-images.githubusercontent.com/51669998/72281002-f4418280-367c-11ea-9fb7-f54add03a3c2.png)
+
 
 ## Requirement
  
