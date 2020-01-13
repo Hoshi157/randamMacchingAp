@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>904897105297-2ifhonjavd2janbs6ae9bfdabjcu2rb3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.904897105297-2ifhonjavd2janbs6ae9bfdabjcu2rb3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDt2HKLpo_21RMySWa-yZDFdwyKyDd8LHo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>904897105297</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>debsen17xxx-icloud.com.randamMacching</string>
+	<key>PROJECT_ID</key>
+	<string>randammacching</string>
+	<key>STORAGE_BUCKET</key>
+	<string>randammacching.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:904897105297:ios:a81515c30f37decf805e30</string>
+	<key>DATABASE_URL</key>
+	<string>https://randammacching.firebaseio.com</string>
+</dict>
+</plist>
