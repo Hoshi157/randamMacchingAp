@@ -2,21 +2,22 @@
 
 　ランダムマッチングチャットアプリケーションです。
 
+
 ## DEMO
 
 ## Features
 
-　かの斎藤さんのようなランダムにマッチングするチャットサービスを作りました。
+　かの斎藤さんのようなランダムにマッチングするチャットサービスを作りました。  
 　電話機能はなくチャットのみです。
 
 ## Requirement
  
- ・Swift
- 
- ・Firestore
- ・Messagekit
- ・NVActivityIndicatorView
- ・IBAnimatable
+ ・Swift  
+   
+ ・Firestore  
+ ・Messagekit  
+ ・NVActivityIndicatorView  
+ ・IBAnimatable  
 
 ## Installation
 
