@@ -18,10 +18,10 @@
 
 ## Requirement
  
- *Firestore  
- *Messagekit  
- *NVActivityIndicatorView  
- *IBAnimatable  
+ * Firestore  
+ * Messagekit  
+ * NVActivityIndicatorView  
+ * IBAnimatable  
 
 ## Installation
 
