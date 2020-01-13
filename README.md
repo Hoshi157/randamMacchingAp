@@ -1,6 +1,6 @@
 # Chuck
 
-![chuck](https://user-images.githubusercontent.com/51669998/72270091-f64d1680-3667-11ea-849f-cda75f264db4.jpg)
+![Group-83 5x2](https://user-images.githubusercontent.com/51669998/72270445-812e1100-3668-11ea-87ba-528ee3c93daa.png)
 
 
 ## Features
