@@ -18,12 +18,10 @@
 
 ## Requirement
  
- ・Swift  
-   
- ・Firestore  
- ・Messagekit  
- ・NVActivityIndicatorView  
- ・IBAnimatable  
+ *Firestore  
+ *Messagekit  
+ *NVActivityIndicatorView  
+ *IBAnimatable  
 
 ## Installation
 
