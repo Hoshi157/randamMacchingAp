@@ -35,6 +35,6 @@
 pod "target" install
 ```
 
-## license
+## License
 
  * MIT
