@@ -28,12 +28,22 @@
 * マッチングしたユーザーとチャットすることができます。
 * トークルームを離れるとチャット履歴は保持しない。
 
+
 <img src="https://user-images.githubusercontent.com/51669998/72281002-f4418280-367c-11ea-9fb7-f54add03a3c2.png" width="200px">&emsp;
 <img src="https://user-images.githubusercontent.com/51669998/72281328-a2e5c300-367d-11ea-8516-2739da0ff5f0.png" width="200px">&emsp;
 <img src="https://user-images.githubusercontent.com/51669998/72281547-20113800-367e-11ea-889f-c2aaf17bf514.png" width="200px">
 &emsp;
 <img src="https://user-images.githubusercontent.com/51669998/72281727-5fd81f80-367e-11ea-8f2e-e8f7e5cb197a.png" width="200px">
 
+
+## 改善点
+
+* シンプルな構造のためUI.UXにもっと時間を割いてよかったと思う。
+
+
+## 感想
+
+* 今回はシンプルなランダムマッチングチャットアプリを作成した。qiitaの記事にrealtime databaseを用いて作成した記事を参考にDatabaseをfirestoreへ、JSQMessagesViewControllerをMessageKitへ、他のUIライブラリを使用してフォークのような形となった。今回firestoreを使用したのは初めてだったし他のライブラリを使用したのは初めてだったため理解を深めることができた。さらにチャットする際のデータ構造、ランダムなマッチングも学ぶことができqiitaの記事を書いてくれた投稿者に感謝です。
 
 
 ## Requirement
@@ -42,6 +52,7 @@
  * Messagekit  
  * NVActivityIndicatorView  
  * IBAnimatable  
+
 
 ## Installation
 
